@@ -1,3 +1,4 @@
+
 :root{
     --branco: rgb(133, 29, 182);
     --cor-de-fundo: #3ce6cf;
@@ -126,14 +127,14 @@ label{
 }
 .fraca{
     width: 25%;
-    background-color: #ff0724; 
+    background-color: #fa1717; 
 }
 .media{
-    background-color: #FAF408;
+    background-color: #8f178f;
     width: 50%;
 }
 .forte{
-    background-color: #00ff15;
+    background-color: #60fc39;
     width: 100%;
 }
 
